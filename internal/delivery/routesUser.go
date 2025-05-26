@@ -7,3 +7,4 @@ func GetUser(ctx *gin.Context) {
 }
 
 // etc logic
+//
